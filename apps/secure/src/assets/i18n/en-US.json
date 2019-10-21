@@ -1,0 +1,7 @@
+{
+  "privacy": {
+    "name":  "UserName :  {{ title }} ",
+    "titile": "Privacy Policy",
+    "description": "A Privacy Policy is a document where you disclose what personal data you collect from your website’s visitors, how you collect it, how you use it and other important details about your privacy practices.\n\n"
+  }
+}
